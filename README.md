@@ -1,3 +1,3 @@
 # learn-github
 
-my name is Boonyapa Kensalok
+my name is Boonyapa 
